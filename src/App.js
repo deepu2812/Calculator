@@ -32,7 +32,7 @@ const App = () => {
 
         <div className="keypad">
           <button onClick={clear} id="clear">
-            Clear
+            fuck
           </button>
           <button onClick={backspace} id="backspace">
             C
